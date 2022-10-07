@@ -22,3 +22,19 @@
 Student of School21 on the Intra platform in Kazan.
 
 Nickname: snino
+
+### :hammer_and_wrench: Languages and Tools :
+
+Languages
+<div id="badges">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30px"/>
+</div>
+Programs
+<div id="badges">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" width="30px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="30px"/>
+    <img src="" width="30px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" width="30px"/>
+</div>
