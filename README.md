@@ -32,9 +32,15 @@ Languages
 </div>
 Programs
 <div id="badges">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30px"/>
+    <img src="https://www.google.com/search?q=clion&sxsrf=ALiCzsYKBrZIzBcpzxiDrsszRJqwBV8WKQ:1665153464637&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiZ_4WGrM76AhXwh4sKHYQcCskQ_AUoAXoECAIQAw&biw=2560&bih=1361&dpr=2#imgrc=BtnfLH0M4vNHCM" width="30px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30px"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" width="30px"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="30px"/>
-    <img src="" width="30px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="30px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" width="30px"/>
+</div>
+
+Modeling programs 
+<div id="badges">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="30px"/>
+    <img src="https://www.clipartmax.com/png/small/100-1005150_solidworks-solid-works-logo-png.png" width="30px" alt="Solidworks - Solid Works Logo Png @clipartmax.com">
 </div>
