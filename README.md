@@ -12,11 +12,6 @@
     <img src="https://komarev.com/ghpvc/?username=scainet7&color=lightgrey&style=plastic"/>
 </div>
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 ### :man_technologist: About Me :
 
 Student of School21 on the Intra platform in Kazan.
@@ -47,13 +42,26 @@ Modeling programs
 ### :fire: My Stats :
 
 <div id="badges">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scainet7&theme=2077"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scainet7&theme=2077" width="500px"/>
 </div>
 <div id="badges">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scainet7&theme=2077"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scainet7&theme=2077"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scainet7&theme=2077"width="250px"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scainet7&theme=2077"width="250px"/>
 </div>
 <div id="badges">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=scainet7&theme=2077"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=scainet7&theme=2077&utcOffset=8"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=scainet7&theme=2077"width="250px"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=scainet7&theme=2077&utcOffset=8"width="250px"/>
 </div>
+
+### :file_folder: My Projects :
+
+Project School21| Personal Programm Project | Personal Modeling Project
+:------------------------------------------------------------|:-----------------|:----------
+[Libft](https://github.com/scainet7/Libft)||
+[Ft_printf](https://github.com/scainet7/ft_printf)||
+[Get_next_line](https://github.com/scainet7/get_next_line)||
+[So_long](https://github.com/scainet7/So_long)||
+[Philosophers](https://github.com/scainet7/Philosophers)||
+[Minishell](https://github.com/scainet7/Minishell)||
+[Cub3D](https://github.com/scainet7/Cub3D)||
+
