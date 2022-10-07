@@ -43,3 +43,17 @@ Modeling programs
 <div id="badges">
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="30px"/>
 </div>
+
+### :fire: My Stats :
+
+<div id="badges">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scainet7&theme=2077"/>
+</div>
+<div id="badges">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scainet7&theme=2077"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scainet7&theme=2077"/>
+</div>
+<div id="badges">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=scainet7&theme=2077"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=scainet7&theme=2077&utcOffset=8"/>
+</div>
