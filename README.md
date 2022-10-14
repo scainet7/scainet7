@@ -3,8 +3,11 @@
 </div>
 
 <div id="badges" align="center">
-    <a href="https://grabcad.com/dashboard"> 
+    <!---<a href="https://grabcad.com/dashboard"> 
     <img src="https://img.shields.io/badge/grabcad-black?logo=grabcad&logoColor=white&style=for-the-badge" width="100" alt="GrabCad Badge"/>
+    </a>--->
+    <a href="https://web.telegram.org/#@timka353">
+    <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=white&style=for-the-badge" width="100" alt="Telegram Badge">
     </a>
 </div>
 
