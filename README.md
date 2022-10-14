@@ -9,7 +9,7 @@
     <a href="https://web.telegram.org/#@timka353">
     <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=white&style=for-the-badge" width="100" alt="Telegram Badge">
     </a>
-    <a href="https://mail.google.com/5162021066ex3z">
+    <a href="https://mail.google.com/mail/u/0/#inbox">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" width="75" alt="Gmail Badge">
     </a>
 </div>
