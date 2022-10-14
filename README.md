@@ -23,14 +23,14 @@ Nickname: snino
 Languages
 <div id="badges">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30px"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30px"/>
+    <!---<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30px"/>--->
 </div>
 Programs
 <div id="badges">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30px"/>
+    <!---<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30px"/>--->
     <img src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" width="30px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30px"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="30px"/>
+    <!---<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="30px"/>--->   
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="30px"/>
 </div>
 
