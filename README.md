@@ -6,17 +6,20 @@
     <!---<a href="https://grabcad.com/dashboard"> 
     <img src="https://img.shields.io/badge/grabcad-black?logo=grabcad&logoColor=white&style=for-the-badge" width="100" alt="GrabCad Badge"/>
     </a>--->
-    <a href="https://web.telegram.org/#@timka353">
-    <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=white&style=for-the-badge" width="100" alt="Telegram Badge">
-    </a>
-    <a href="https://mail.google.com/mail/u/0/#inbox">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" width="75" alt="Gmail Badge">
-    </a>
 </div>
 
 <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=scainet7&color=lightgrey&style=plastic"/>
 </div>
+
+### :mailbox_closed:Contacts
+
+Mail:       scainet7@mail.ru
+
+
+Gmail:      5162021066ex3z@gmail.com
+
+Telegram:   timka353
 
 ### :man_technologist: About Me :
 
