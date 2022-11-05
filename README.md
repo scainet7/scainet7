@@ -73,5 +73,5 @@ Project School21| Personal Programm Project | Personal Modeling Project
 [Philosophers](https://github.com/scainet7/Philosophers)||
 [Minishell](https://github.com/scainet7/Minishell)||
 [Cub3D](https://github.com/scainet7/Cub3D)||
-[CPP_modul]()||
+[CPP_modul](https://github.com/scainet7/CPP_modul)||
 
