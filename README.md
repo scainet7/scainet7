@@ -68,7 +68,7 @@ Modeling programs
 Project School21| Personal Programm Project | Personal Modeling Project
 :------------------------------------------------------------|:-----------------|:----------
 [Libft](https://github.com/scainet7/Libft)||
-[Ft_printf](https://github.com/scainet7/ft_printf)||
+[Ft_printf](https://github.com/scainet7/ft_printf)|[Basic_edication_cpp](https://github.com/scainet7/basic_education_cpp)|
 [Get_next_line](https://github.com/scainet7/get_next_line)||
 [So_long](https://github.com/scainet7/So_long)||
 [Philosophers](https://github.com/scainet7/Philosophers)||
