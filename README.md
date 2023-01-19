@@ -69,24 +69,24 @@ Modeling programs
 <br> Basic education </br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
-|[Basic_c](https://github.com/scainet7/basic_c)||
-|[Basic_cpp](https://github.com/scainet7/basic_cpp)||
-|[Basic_OOP_cpp](https://github.com/scainet7/basic_oop_cpp)||
-|[Basic_cs](https://github.com/scainet7/basic_cs)||
+|[Basic_c](https://github.com/scainet7/basic_c)||C, 
+|[Basic_cpp](https://github.com/scainet7/basic_cpp)||C++ 11, VSCode
+|[Basic_OOP_cpp](https://github.com/scainet7/basic_oop_cpp)|| C++ 11, VSCode
+|[Basic_cs](https://github.com/scainet7/basic_cs)||C#, VisualStudio
 
 <br> Project School21 </br>
-| Project name      | Description                | Tools |
-| ------------- |:------------------------:| ------------------------:|
-|[Libft](https://github.com/scainet7/Libft)|||
-|[Ft_printf](https://github.com/scainet7/ft_printf)||
-|[Get_next_line](https://github.com/scainet7/get_next_line)||
-|[So_long](https://github.com/scainet7/So_long)||
-|[Pipex](https://github.com/scainet7/Pipex)||
-|[Philosophers](https://github.com/scainet7/Philosophers)||
-|[Minishell](https://github.com/scainet7/Minishell)||
-|[Cub3D](https://github.com/scainet7/Cub3D)||
-|[CPP_modul](https://github.com/scainet7/CPP_modul)||
-|||
+| Project name      | Description                | Tools                | Final Mark|
+| ------------- |:------------------------:| ------------------------:| ------------------------:|
+|[Libft](https://github.com/scainet7/Libft)|||<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld321p6n00930fmeuwusgd4z/project/2365489" alt="snino's 42 Libft Score" /></a>|
+|[Ft_printf](https://github.com/scainet7/ft_printf)|||<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld321p6n00930fmeuwusgd4z/project/2397138" alt="snino's 42 ft_printf Score" /></a>|
+|[Get_next_line](https://github.com/scainet7/get_next_line)|||<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld321p6n00930fmeuwusgd4z/project/2397139" alt="snino's 42 get_next_line Score" /></a>|
+|[So_long](https://github.com/scainet7/So_long)|||<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld321p6n00930fmeuwusgd4z/project/2465360" alt="snino's 42 so_long Score" /></a>|
+|[Pipex](https://github.com/scainet7/Pipex)|||<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld321p6n00930fmeuwusgd4z/project/2465361" alt="snino's 42 pipex Score" /></a>|
+|[Philosophers](https://github.com/scainet7/Philosophers)|||<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld321p6n00930fmeuwusgd4z/project/2608833" alt="snino's 42 Philosophers Score" /></a>|
+|[Minishell](https://github.com/scainet7/Minishell)|||<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld321p6n00930fmeuwusgd4z/project/2608835" alt="snino's 42 minishell Score" /></a>|
+|[Cub3D](https://github.com/scainet7/Cub3D)|||<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld321p6n00930fmeuwusgd4z/project/2765748" alt="snino's 42 cub3d Score" /></a>|
+|[CPP_modul](https://github.com/scainet7/CPP_modul)||||
+
 
 <br> Personal Project </br>
 | Project name      | Description                | Tools |
@@ -96,8 +96,8 @@ Modeling programs
 <br> Personal Modeling Project </br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
-|[DrawBot_prototyp](https://drive.google.com/drive/folders/1Xvb0IHcfWdeb_MImfi8IQB_gM7_5T3U5?usp=sharing)||
-|[House_in_the_forest](https://github.com/scainet7/House_in_the_forest)||
+|[DrawBot_prototyp](https://drive.google.com/drive/folders/1Xvb0IHcfWdeb_MImfi8IQB_gM7_5T3U5?usp=sharing)||Solid Works
+|[House_in_the_forest](https://github.com/scainet7/House_in_the_forest)||Blender
 
 
 
