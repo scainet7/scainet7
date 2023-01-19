@@ -25,7 +25,7 @@ Telegram:   timka353
 
 Student of School21 on the Intra platform in Kazan.
 
-Nickname: snino
+[![snino's 42 stats](https://badge42.vercel.app/api/v2/cld321p6n00930fmeuwusgd4z/stats?cursusId=21&coalitionId=101)](https://github.com/JaeSeoKim/badge42)
 
 ### :hammer_and_wrench: Languages and Tools :
 
