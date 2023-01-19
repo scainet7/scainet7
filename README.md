@@ -66,13 +66,41 @@ Modeling programs
 
 ### :file_folder: My Projects :
 
-Project School21| Personal Programm Project | Personal Modeling Project
-:------------------------------------------------------------|:-----------------|:----------
-[Libft](https://github.com/scainet7/Libft)|[Basic_c](https://github.com/scainet7/basic_c)|[DrawBot_prototyp](https://drive.google.com/drive/folders/1Xvb0IHcfWdeb_MImfi8IQB_gM7_5T3U5?usp=sharing)
-[Ft_printf](https://github.com/scainet7/ft_printf)|[Basic_cpp](https://github.com/scainet7/basic_cpp)|[House_in_the_forest](https://github.com/scainet7/House_in_the_forest)
-[Get_next_line](https://github.com/scainet7/get_next_line)|[Basic_OOP_cpp](https://github.com/scainet7/basic_oop_cpp)|
-[So_long](https://github.com/scainet7/So_long)|[Basic_cs](https://github.com/scainet7/basic_cs)|
-[Philosophers](https://github.com/scainet7/Philosophers)||
-[Minishell](https://github.com/scainet7/Minishell)||
-[Cub3D](https://github.com/scainet7/Cub3D)||
-[CPP_modul](https://github.com/scainet7/CPP_modul)||
+<br> Basic education </br>
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
+|[Basic_c](https://github.com/scainet7/basic_c)||
+|[Basic_cpp](https://github.com/scainet7/basic_cpp)||
+|[Basic_OOP_cpp](https://github.com/scainet7/basic_oop_cpp)||
+|[Basic_cs](https://github.com/scainet7/basic_cs)||
+
+<br> Project School21 </br>
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
+|[Libft](https://github.com/scainet7/Libft)|||
+|[Ft_printf](https://github.com/scainet7/ft_printf)||
+|[Get_next_line](https://github.com/scainet7/get_next_line)||
+|[So_long](https://github.com/scainet7/So_long)||
+|[Pipex](https://github.com/scainet7/Pipex)||
+|[Philosophers](https://github.com/scainet7/Philosophers)||
+|[Minishell](https://github.com/scainet7/Minishell)||
+|[Cub3D](https://github.com/scainet7/Cub3D)||
+|[CPP_modul](https://github.com/scainet7/CPP_modul)||
+|||
+
+<br> Personal Project </br>
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
+|||
+
+<br> Personal Modeling Project </br>
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
+|[DrawBot_prototyp](https://drive.google.com/drive/folders/1Xvb0IHcfWdeb_MImfi8IQB_gM7_5T3U5?usp=sharing)||
+|[House_in_the_forest](https://github.com/scainet7/House_in_the_forest)||
+
+
+
+
+
+
