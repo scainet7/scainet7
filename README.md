@@ -69,9 +69,9 @@ Modeling programs
 <br> Basic education </br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
-|[Basic_c](https://github.com/scainet7/basic_c)||C, 
-|[Basic_cpp](https://github.com/scainet7/basic_cpp)||C++ 11, VSCode.
-|[Basic_OOP_cpp](https://github.com/scainet7/basic_oop_cpp)|| C++ 11, VSCode.
+|[Basic_c](https://github.com/scainet7/basic_c)||C
+|[Basic_cpp](https://github.com/scainet7/basic_cpp)||C++.
+|[Basic_OOP_cpp](https://github.com/scainet7/basic_oop_cpp)|| C++ , OOP.
 |[Basic_cs](https://github.com/scainet7/basic_cs)||C#, VisualStudio.
 
 <br> Project School21 </br>
