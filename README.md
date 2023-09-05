@@ -25,8 +25,6 @@ Telegram:   timka353
 
 Student of School21 on the Intra platform in Kazan.
 
-[![snino's 42 stats](https://badge42.vercel.app/api/v2/cld321p6n00930fmeuwusgd4z/stats?cursusId=21&coalitionId=101)](https://github.com/JaeSeoKim/badge42)
-
 ### :hammer_and_wrench: Languages and Tools :
 
 Languages
@@ -66,38 +64,29 @@ Modeling programs
 
 ### :file_folder: My Projects :
 
-<br> Basic education </br>
-| Project name      | Description                | Tools |
-| ------------- |:------------------------:| ------------------------:|
-|[Basic_c](https://github.com/scainet7/basic_c)||C
-|[Basic_cpp](https://github.com/scainet7/basic_cpp)||C++.
-|[Basic_OOP_cpp](https://github.com/scainet7/basic_oop_cpp)|| C++ , OOP.
-|[Basic_cs](https://github.com/scainet7/basic_cs)||C#, VisualStudio.
+<br> Project School21 Intra </br>
+| Project name      | Description                |Tools                |
+| ------------- |:------------------------:| ------------------------:| 
+|[Libft](https://github.com/scainet7/Libft)|Implementation of a standard C function.|C.|
+|[Ft_printf](https://github.com/scainet7/ft_printf)|Implement printf behavior.|С, Va_list, va_arg, va_start, va_end.|
+|[Get_next_line](https://github.com/scainet7/get_next_line)|An implementation of the getline function that reads a line into a buffer of a certain size and returns a line. When called again, the line is added.|C.|
+|[So_long](https://github.com/scainet7/So_long)|A 2D game written in C and using the functions of the minilibx library.|C, minilibx.|
+|[Pipex](https://github.com/scainet7/Pipex)||C, fork, pipe, execve, dup.|
+|[Philosophers](https://github.com/scainet7/Philosophers)|Solving the problem of philosophers.|C, fork, pthread, mutex, sem, pipe, dup.|
+|[Minishell](https://github.com/scainet7/Minishell)|Implementing the behavior of standard bash.|C, pipe, fork, signal, dup, execve, envp, getenv, getcwd, readline, exit.|
+|[Cub3D](https://github.com/scainet7/Cub3D)|This project is inspired by the world-famous Wolfenstein 3D game.|C, minilibx, math, Ray casting.|
+|[CPP_modul](https://github.com/scainet7/CPP_modul)|The goal of these modules is to introduce you to Object-Oriented Programming.|C++98, OOP, string.|
 
-<br> Project School21 </br>
-| Project name      | Description                |Tools                |Final Mark|
-| ------------- |:------------------------:| ------------------------:| ------------------------:|
-|[Libft](https://github.com/scainet7/Libft)|Implementation of a standard C function.|C.|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld321p6n00930fmeuwusgd4z/project/2365489" alt="snino's 42 Libft Score" /></a>|
-|[Ft_printf](https://github.com/scainet7/ft_printf)|Implement printf behavior.|С, Va_list, va_arg, va_start, va_end.|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld321p6n00930fmeuwusgd4z/project/2397138" alt="snino's 42 ft_printf Score" /></a>|
-|[Get_next_line](https://github.com/scainet7/get_next_line)|An implementation of the getline function that reads a line into a buffer of a certain size and returns a line. When called again, the line is added.|C.|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld321p6n00930fmeuwusgd4z/project/2397139" alt="snino's 42 get_next_line Score" /></a>|
-|[So_long](https://github.com/scainet7/So_long)|A 2D game written in C and using the functions of the minilibx library.|C, minilibx.|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld321p6n00930fmeuwusgd4z/project/2465360" alt="snino's 42 so_long Score" /></a>|
-|[Pipex](https://github.com/scainet7/Pipex)||C, fork, pipe, execve, dup.|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld321p6n00930fmeuwusgd4z/project/2465361" alt="snino's 42 pipex Score" /></a>|
-|[Philosophers](https://github.com/scainet7/Philosophers)|Solving the problem of philosophers.|C, fork, pthread, mutex, sem, pipe, dup.|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld321p6n00930fmeuwusgd4z/project/2608833" alt="snino's 42 Philosophers Score" /></a>|
-|[Minishell](https://github.com/scainet7/Minishell)|Implementing the behavior of standard bash.|C, pipe, fork, signal, dup, execve, envp, getenv, getcwd, readline, exit.|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld321p6n00930fmeuwusgd4z/project/2608835" alt="snino's 42 minishell Score" /></a>|
-|[Cub3D](https://github.com/scainet7/Cub3D)|This project is inspired by the world-famous Wolfenstein 3D game.|C, minilibx, math, Ray casting.|<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cld321p6n00930fmeuwusgd4z/project/2765748" alt="snino's 42 cub3d Score" /></a>|
-|[CPP_modul](https://github.com/scainet7/CPP_modul)|The goal of these modules is to introduce you to Object-Oriented Programming.|C++98, OOP, string.||
-
-
-<br> Personal Project </br>
-| Project name      | Description                | Tools |
-| ------------- |:------------------------:| ------------------------:|
-|||
+<br> Project School21 Platform </br>
+| Project name      | Description                |Tools                |
+| ------------- |:------------------------:| ------------------------:| 
 
 <br> Personal Modeling Project </br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 |[DrawBot_prototyp](https://drive.google.com/drive/folders/1Xvb0IHcfWdeb_MImfi8IQB_gM7_5T3U5?usp=sharing)||Solid Works.
-|[House_in_the_forest](https://github.com/scainet7/House_in_the_forest)||Blender.
+|[House](https://github.com/scainet7/Blender_project/tree/main/Hous)||Blender.
+|[House_in_the_forest](https://github.com/scainet7/Blender_project/tree/main/House_in_the_forest)||Blender.
 
 
 
