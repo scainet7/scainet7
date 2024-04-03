@@ -85,8 +85,8 @@ Modeling programs
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 |[DrawBot_prototyp](https://drive.google.com/drive/folders/1Xvb0IHcfWdeb_MImfi8IQB_gM7_5T3U5?usp=sharing)||Solid Works.
-|[House](https://github.com/scainet7/Blender_project/tree/main/Hous)||Blender.
-|[House_in_the_forest](https://github.com/scainet7/Blender_project/tree/main/House_in_the_forest)||Blender.
+<!---|[House](https://github.com/scainet7/Blender_project/tree/main/Hous)||Blender.--->
+<!---|[House_in_the_forest](https://github.com/scainet7/Blender_project/tree/main/House_in_the_forest)||Blender.--->
 
 
 
