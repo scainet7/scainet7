@@ -86,7 +86,7 @@ Modeling programs
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 |[DrawBot_prototyp](https://drive.google.com/drive/folders/1Xvb0IHcfWdeb_MImfi8IQB_gM7_5T3U5?usp=sharing)||Solid Works.
-||||
+|[Blender_project](https://github.com/scainet7/Blender_project)||Blender 3D|
 
 
 
