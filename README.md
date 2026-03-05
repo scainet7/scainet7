@@ -21,10 +21,6 @@ Gmail:      5162021066ex3z@gmail.com
 
 Telegram:   timka353
 
-### :man_technologist: About Me :
-
-Studied at School 21 on the Intra platform in Kazan.
-
 ### :hammer_and_wrench: Languages and Tools :
 
 Languages
